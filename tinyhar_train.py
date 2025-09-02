@@ -1,4 +1,4 @@
-# tal_for_har/train_tinyhar_wear_metrics.py
+# tal_for_har/tinyhar_train.py
 import os, sys, json, time, random
 from collections import Counter
 import numpy as np
